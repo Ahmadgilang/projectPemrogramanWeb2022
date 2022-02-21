@@ -1,1 +1,4 @@
 Silhkan tuliskan Nama, NPM dan Alamat Github Kalian
+Nama : ahmad gilang barokat
+npm : 2135043
+Alamat : https://github.com/Ahmadgilang/belajarphp
